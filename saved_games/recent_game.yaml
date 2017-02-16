@@ -1,0 +1,23 @@
+--- !ruby/object:Game
+random_word: cacophony
+display:
+- 'c '
+- 'a '
+- 'c '
+- 'o '
+- " __ "
+- " __ "
+- 'o '
+- " __ "
+- " __ "
+choices:
+- a
+- e
+- i
+- o
+- u
+- s
+- t
+- r
+- c
+counter: 6
